@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 group-title="FIFA World Cup", T Sports
+http://your-video-link.com/tsports.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup", GTV
+http://your-video-link.com/gtv.m3u8
+
+#EXTINF:-1 group-title="Other Sports", Star Sports
+http://your-video-link.com/starsports.m3u8
