@@ -1,10 +1,253 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FIFA World Cup", T Sports
-http://your-video-link.com/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="FIFA WORLD CUP 2026",1. T Sports
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8[cite: 1]
 
-#EXTINF:-1 group-title="FIFA World Cup", GTV
-http://your-video-link.com/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="FIFA WORLD CUP 2026",2. T Sports
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8[cite: 1]
 
-#EXTINF:-1 group-title="Other Sports", Star Sports
-http://your-video-link.com/starsports.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="FIFA WORLD CUP 2026",3. T Sports
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="FIFA WORLD CUP 2026",4. T Sports
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="FIFA WORLD CUP 2026",5. T Sports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png" group-title="FIFA WORLD CUP 2026",6. T Sports
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=80534139e647bfb0a80b516d92c0c02c1b8766c2-aeafc05ef118a24907c814c4b9495e60-1781265322-1781254522[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="FIFA WORLD CUP 2026",7. T Sports
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.ll.m3u8?token=2dbcfa549121c03a2f9cb013c54b88a36d09df48-7cab5a301655b7274175e5e83b0b9f70-1781265322-1781254522[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png" group-title="FIFA WORLD CUP 2026",8. T Sports
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=2171f2f894f80225242b2c127df9329c9a89ba41-bce538356b05a8a15e1cbf3afb93eff7-1781268907-1781258107[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="FIFA WORLD CUP 2026",9. T Sports
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.ll.m3u8?token=22280d56cbdb4be921f4d27364aaa55257cf0549-f3b9348203652eb523e8dae28138a63b-1781268907-1781258107[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="FIFA WORLD CUP 2026",10. T Sports
+http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png " group-title="FIFA WORLD CUP 2026",11. T Sports
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png" group-title="FIFA WORLD CUP 2026",12. T Sports
+https://sm-monirul.top/RZ/live/edge1/1/index.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="FIFA WORLD CUP 2026",13. T Sports
+https://sm-monirul.top/RZ/live/edge2/tsports/index.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="FIFA WORLD CUP 2026",14. T Sports
+http://sm-monirul.top/SM/live.php?id=t_sports&e=.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="FIFA WORLD CUP 2026",15. T Sports
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="FIFA WORLD CUP 2026",16. T Sports
+https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8[cite: 1]
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[AFL Aussie Rules] Geelong Cats vs Gold Coast Suns (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[AFL Aussie Rules] Geelong Cats vs Gold Coast Suns (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/dfffVVv.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Cycling] Cycling Tour Auvergne Rhone (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Cycling] Cycling Tour Auvergne Rhone (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/ubbbaAA.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Darts] Darts World Cup (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Darts] Darts World Cup (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.43/hls/CACACACA.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[FIA Formula 2] FIA Formula 2 Catalunya (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[FIA Formula 2] FIA Formula 2 Catalunya (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/dfffV.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[FIA Formula 3] FIA Formula 3 Catalunya (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[FIA Formula 3] FIA Formula 3 Catalunya (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/dfffV.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bosnia-Herzegovina vs Canada (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA WORLD CUP 2026",[FIFA World Cup] Bosnia-Herzegovina vs Canada (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://bstream.live/embed-player?stream=hdvxw7c3bj
+#EXTVLCOPT:http-origin=https://bstream.live/embed-player?stream=hdvxw7c3bj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.live/live/hdvxw7c3bj.m3u8?expires=1781271019&token=LrqKcM1lFtzXk2my0toLlA
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs United States (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA WORLD CUP 2026",[FIFA World Cup] Paraguay vs United States (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://bstream.live/embed-player?stream=hdvxw7c3bj
+#EXTVLCOPT:http-origin=https://bstream.live/embed-player?stream=hdvxw7c3bj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.live/live/hdvxw7c3bj.m3u8?expires=1781271021&token=4pBK0rnL_k0OontJvE4Vlg
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Fighting] WWE Smackdown (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Fighting] WWE Smackdown (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.formaturamaxi.com.br/wwe.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Bosnia-Herzegovina at Canada (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="FIFA WORLD CUP 2026",[Football] Bosnia-Herzegovina at Canada (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Barcelona Grand Prix - Practice 1 (EMBEDHD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="FIFA WORLD CUP 2026",[Formula 1] Barcelona Grand Prix - Practice 1 (EMBEDHD)
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn11.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=ymks7-vP8Z82V70zkuBgxA&expires=1781272862
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Spain GP (EMBEDHD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="FIFA WORLD CUP 2026",[Formula 1] Formula 1 2026 - Spain GP (EMBEDHD)
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn11.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=FMkBfQ4Co4H2zep9rKbu2w&expires=1781272865
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Spain GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="FIFA WORLD CUP 2026",[Formula 1] Formula 1 2026 - Spain GP (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/51883?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/51883?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/51883/load-playlist
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - FP1 (WATCHFTY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="FIFA WORLD CUP 2026",[Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - FP1 (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839068/msc-cruises-barcelona-catalunya-grand-prix/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401839068/msc-cruises-barcelona-catalunya-grand-prix/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb2.wfty.st/secure/Qv-DMmm2RC5tKpS-FSZoxA/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839068/1781287312/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA RBC Canadian Open (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="FIFA WORLD CUP 2026",[Golf PGA] Golf PGA RBC Canadian Open (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/BRRRD.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.194/hls/vavavava.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.194/hls/vavavavaq.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Live Event] F1 Barcelona Catalunya Grand Prix vs Live (FSPRTS)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Live Event] F1 Barcelona Catalunya Grand Prix vs Live (FSPRTS)
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn3.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=pWMgBaRPv6oUYiusCS8_kA&expires=1781270450
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Knights vs Hurricanes (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="FIFA WORLD CUP 2026",[NHL] Knights vs Hurricanes (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=8oszBwcPqw4S3oLaZJH4gKU4Fub25TUNo1A0iaHVNis&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1781280060/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[NRL] Dolphins vs Sydney Roosters (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[NRL] Dolphins vs Sydney Roosters (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/dfffVVvv.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Racing.Dummy.us" tvg-name="[Racing] ARCA Menards Series - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Racing] ARCA Menards Series - Race (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://daffodil.sandhost.qzz.io/arca.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Formula 1 - Free Practice (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Racing] Formula 1 - Free Practice (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://daffodil.sandhost.qzz.io/f1.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Formula 1 - Free Practice 2 (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Racing] Formula 1 - Free Practice 2 (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://daffodil.formaturamaxi.com.br/f1.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Le Mans Cup - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Racing] Le Mans Cup - Race (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.thelistener.pk/wec.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker China Opene 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Snooker] Snooker China Opene 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/brrrQQ.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker China Opene 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Snooker] Snooker China Opene 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/brrrQ.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker China Opene 3 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Snooker] Snooker China Opene 3 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/brrr.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker China Opene 4 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Snooker] Snooker China Opene 4 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/brrrX.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Coastal Union vs Namungo (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Tanzania Ligi Kuu Bara] Coastal Union vs Namungo (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.55/hls/ELLL.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Fountain Gate vs Azam (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Tanzania Ligi Kuu Bara] Fountain Gate vs Azam (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.55/hls/ELLLQ.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] Japan vs Poland (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Volleyball Nations League] Japan vs Poland (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.59/hls/dfffVV.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] Japan vs Poland (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Volleyball Nations League] Japan vs Poland (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668126/japan-poland/regular/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4668126/japan-poland/regular/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb5.wfty.st/secure/zIiDiDAIbJCLKyWEYgT4Cw/regular/japan-poland/1/4668126/1781290826/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Live.Event.us" tvg-name="[WORLD: World Cup (Teams)] Italy vs Trinidad & Tobago (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[WORLD: World Cup (Teams)] Italy vs Trinidad & Tobago (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/b368ce24dd4/italy-trinidad-tobago/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/b368ce24dd4/italy-trinidad-tobago/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb1.wfty.st/secure/CpqtsJHryyy1jpZrVIyKvw/easy/italy-trinidad-tobago/1/b368ce24dd4/1781290828/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Live.Event.us" tvg-name="[World Superbikes] World Superbikes Emilia-Romagna (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[World Superbikes] World Superbikes Emilia-Romagna (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.55/hls/ELLLQQ.m3u8
