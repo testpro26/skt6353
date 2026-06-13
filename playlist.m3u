@@ -405,3 +405,64 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" group-title="Sports Channels", FIFA World Cup
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="beIN sports Xtra HD" group-title="Sports",beIN sports Xtra HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-name="beIN sports Xtra" group-title="Sports",beIN sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-name="Sports Legends" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports Range" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fighters" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bleav Football" group-title="Sports",Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports First TV" group-title="Sports",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+
+#EXTINF:-1 tvg-name="WOF 1" group-title="Sports",WOF 1
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg" group-title="Sports",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg" group-title="Sports",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup 2026 🇧🇷[coming]" tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg" group-title="Sports",FIFA World Cup 2026 🇧🇷[coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup 2026 [coming]" tvg-logo="https://i.postimg.cc/7ZRGLxFh/images-(1).jpg" group-title="Sports",FIFA World Cup 2026 [coming]
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Amagi Sports" group-title="Sports",Amagi Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD Sports 2.0" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MuxIP-SportsFirst TV🎯" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",MuxIP-SportsFirst TV🎯
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Sports",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 1🎯" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",Bein Sports 1🎯
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
