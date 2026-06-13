@@ -377,3 +377,31 @@ http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports",beIN Sports https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports",PTV Sports https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="FIFA World Cup Channels", T-sports
+https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png" group-title="FIFA World Cup Channels", BTV News
+https://tvsen6.aynaott.com/btv_world/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1280px-SOMOY_TV_Logo.svg.png" group-title="FIFA World Cup Channels", Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="FIFA World Cup Channels", caze tv
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="FIFA World Cup Channels", T-sports Akash Go
+https://edge2.roarzone.net:8447/roarzone/edge1/1/tracks-v1/index.ll.m3u8?token=5680671b2e7a9457a8ea398d27effe2c8ee3115b-f7c581e253648058bc881f62d6cd5244-1781204113-1781193313
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Sports Channels", T-sports
+https://tvsen7.aynaott.com/tsports-hd/index.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8=w600-h300-pc0xffffff-pd" group-title="Sports Channels", A Sports
+https://tvsen6.aynaott.com/asports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2021/09/23/614c5c44221ab_thumbnail.png" group-title="Sports Channels", Euro Sports
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" group-title="Sports Channels", FIFA World Cup
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
