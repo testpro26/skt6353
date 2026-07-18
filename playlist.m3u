@@ -111,9 +111,6 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 #EXTINF:-1, Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Brazilian Serie B] Athletic Club-MG vs Atlético Goianiense (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Brazilian Serie B] Athletic Club-MG vs Atlético Goianiense (CDNTV)
 https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3ODQ0MjEwNDA2NDY6Y2RubGl2ZXR2LnR2OmNiNjk1MTQ1YjhhZmNmNWIuYjEyNzNiMzVjMTkwYTg2YmE1ZThlYWQwZGNlMWE2N2IxZjExZTkxMTY1ZGZlNmNjOTE3NTRhM2I3ZGZmNDIxOA
 #EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[CFL] Montreal Alouettes vs Calgary Stampeders (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[CFL] Montreal Alouettes vs Calgary Stampeders (CDNTV)
@@ -164,44 +161,24 @@ https://node-025d151e.4587.website/6a5c52f1.8639b32ci5c3b601d.8f0d.2b9c9ce8/free
 https://dellamonic.s3.us-east-2.amazonaws.com/btsport.m3u8
 #EXTINF:-1 tvg-chno="248" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC Fight Night] UFC Fight Night : Plessis vs Usman (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC Fight Night] UFC Fight Night : Plessis vs Usman (FAWA)
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/26.m3u8
- 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="FIFA WORLD CUP 2026",1. bbbbbbb
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Formula 1 - Free Practice (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FIFA WORLD CUP 2026",[Racing] Formula 1 - Free Practice (ROXIE)
 https://daffodil.sandhost.qzz.io/f1.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS" tvg-country="",Live Sports-9 (FIFA World Cup)
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS" tvg-country="",Live Sports-10 (FIFA World Cup)
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS" tvg-country="",Star Sports-1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS" tvg-country="",FOX Sports
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS" tvg-country="",BeIN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="SPORTS" tvg-country="",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="SPORTS" tvg-country="",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="SPORTS" tvg-country="",MTR Sports-1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="FIFA World Cup Channels", caze tv
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2021/09/23/614c5c44221ab_thumbnail.png" group-title="Sports Channels", Euro Sports
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" group-title="Sports Channels", FIFA World Cup
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN sports Xtra" group-title="Sports",beIN sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-name="Bleav Football" group-title="Sports",Bleav Football
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="WOF 1" group-title="Sports",WOF 1
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 🇧🇷[coming]" tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg" group-title="Sports",FIFA World Cup 2026 🇧🇷[coming]
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="Amagi Sports" group-title="Sports",Amagi Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="MuxIP-SportsFirst TV🎯" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",MuxIP-SportsFirst TV🎯
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Sports",A SPOR
